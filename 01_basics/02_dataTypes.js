@@ -1,3 +1,13 @@
+/*
+
+  > Date Created: May 15, 2025
+  > Author: Ishaan Rastogi
+  > Purpose: Data Types in JavaScript
+  > Operating System: This is only for Windows OS, it may or may not work on other OS
+  > Program Status: 100% Working
+
+*/
+
 "use strict"; // This is a strict mode, it will throw an error if you try to use a variable that is not declared
 // This treats the code as a newer version.
 
